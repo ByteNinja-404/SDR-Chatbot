@@ -1,40 +1,20 @@
-SignalBot: Intelligent SDR Chat Assistant
-SignalBot is a conversational chatbot designed to assist users in Software-Defined Radio (SDR) tasks. This project leverages advanced natural language processing (NLP) to provide an interactive and intelligent interface for exploring and managing SDR-related operations.
+# **SignalBot: Intelligent SDR Chat Assistant**
 
-Features
-Intuitive chatbot interface for SDR queries.
-Assistance with configuration, signal analysis, and troubleshooting.
-Easily extensible and customizable for specific SDR workflows.
-Getting Started
-Clone the repository
+SignalBot is a conversational chatbot designed to streamline tasks related to Software-Defined Radio (SDR). With an intuitive interface and intelligent features, it helps users configure, analyze, and troubleshoot SDR operations effortlessly.
 
-bash
-Copy code
-git clone https://github.com/ByteNinja-404/SDR-Chatbot.git
-cd SDR-Chatbot
-Install dependencies
-Ensure you have Python installed. Then run:
+## **Features**
+- **Interactive Chat Interface**: Simplifies SDR workflows with a conversational approach.
+- **SDR Signal Support**: Offers guidance for signal processing and analysis.
+- **Customizable**: Easily extend the chatbot to handle specific SDR scenarios.
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the chatbot
+## **Getting Started**
 
-bash
-Copy code
-python chatbot.py
-Technologies Used
-Python
-Natural Language Processing libraries (e.g., spaCy, NLTK, or transformers)
-SDR integration libraries (e.g., GNU Radio)
-Contributing
-Contributions are welcome!
+### **Prerequisites**
+- Python 3.7 or higher
+- Basic understanding of SDR concepts
 
-Fork the repository.
-Create a feature branch.
-Submit a pull request with a detailed description of your changes.
-License
-This project is licensed under the MIT License.
-
-Description
-SignalBot simplifies the interaction with SDR systems by providing a user-friendly chatbot. Whether you're a beginner or an experienced SDR enthusiast, SignalBot enables faster problem-solving and improved workflows through its intelligent assistant capabilities.
+### **Installation**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ByteNinja-404/SDR-Chatbot.git
+   cd SDR-Chatbot
