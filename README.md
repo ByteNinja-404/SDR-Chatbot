@@ -10,7 +10,11 @@ SignalBot is a conversational chatbot designed to streamline tasks related to So
 ## **Getting Started**
 
 ### **Prerequisites**
-- Python 3.7 or higher
+- TypeScript
+- JavaScript
+- React
+- HTML
+- CSS
 - Basic understanding of SDR concepts
 
 ### **Installation**
